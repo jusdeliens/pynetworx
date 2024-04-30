@@ -1,0 +1,3 @@
+[submodule "pyanalytx"]
+	path = pyanalytx
+	url = https://github.com/jusdeliens/pyanalytx.git
